@@ -1,0 +1,37 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+#vantagens{
+  background-color: rgb(117, 117, 117);
+  border-radius: 10px;
+  min-height: 300px;
+}
+.divmain{
+  margin: 0;
+  align-items: flex-start;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  min-height: 1000px;
+}
+.card{
+  justify-content: flex-start;
+  border-radius: 10px;
+  display: flex;
+  
+width: 800px;
+  background-color: rgb(58, 57, 56);
+      flex-direction: column;
+}
+p{
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+img{
+  
+  width: 28px;
+}
